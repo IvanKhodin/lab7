@@ -19,6 +19,8 @@
 
 В результате решения задачи методом Мерсона были построены следующие графики: ![https://github.com/IvanKhodin/lab7/blob/master/Graphics](https://github.com/IvanKhodin/lab7/blob/master/Graphics.png)
 
+Соотвественно красным цветом нарисован график зависимости y(x), синим - y'(x) и зеленым - фазовая траектория (y'(y)).
+
 
 
 
